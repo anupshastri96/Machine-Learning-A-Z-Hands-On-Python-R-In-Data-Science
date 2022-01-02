@@ -1,0 +1,11 @@
+Libraries numpy -  to work with the arrays
+matplotlib.pyplot - to plot charts
+Pandas to import data and manipulate
+
+Matrix of feature
+Dependent variable vector
+In any dataset has features and depedent variable
+dataset.iloc stands for locating indexes - column and rows 
+: in pyhton mean range
+-1 means index of last column in python
+:-1 the right side of : means exclude
